@@ -1,0 +1,9 @@
+body{
+    background-image: url(images/paris.jpg);
+    line-height: 1.4px;
+    margin:0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    }
